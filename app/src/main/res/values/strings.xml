@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Share A Meal</string>
+
+    <string name="label_iv_logo">Share A Meal Logo</string>
+    <string name="label_tv_welcome">Welcome!</string>
+    <string name="label_tv_email">Email:</string>
+    <string name="label_et_email">Enter your Email</string>
+    <string name="label_tv_password">Password:</string>
+    <string name="label_et_password">Enter your password</string>
+    <string name="label_bt_login">Login</string>
+    <string name="label_tv_register">Register here</string>
+</resources>
